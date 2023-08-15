@@ -1,2 +1,0 @@
-Hello World :)
- I am Prject AMAD which stands for "A Movie A Day". AMAD is perfect for those times when its movie night but you don't know what to watch. It is also perfect if your just bored and do not know what to do, as my developer would say "A movie a day, keeps the boredom at bay".
